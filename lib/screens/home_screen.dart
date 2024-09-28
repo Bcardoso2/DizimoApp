@@ -96,6 +96,7 @@ class _HomeScreenState extends State<HomeScreen> {
             icon: Icon(Icons.person),
             label: 'Dizimistas',
           ),
+          
         ],
         currentIndex: _selectedIndex,
         selectedItemColor: Colors.blue,
